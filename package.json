@@ -1,6 +1,6 @@
 {
   "name": "react-tagsinput",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Simple react.js component for inputing tags",
   "main": "react-tagsinput.js",
   "dependencies": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/olahol/react-tagsinput"
+    "url": "https://github.com/hideoyanagi/react-tagsinput"
   },
   "keywords": [
     "react",

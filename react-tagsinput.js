@@ -73,6 +73,12 @@
         tags: this.props.tags.slice(0)
       });
     }
+    
+    , componentWillReceiveProps: function (nextProps) {
+      this.setState({
+        tags: this.props.tags.slice(0)
+      });
+    }
 
     , getTags: function () {
       return this.state.tags;
